@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "991255241940",
+    "project_id": "staycation-97046",
+    "storage_bucket": "staycation-97046.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991255241940:android:0dec9775801e2e7e990741",
+        "android_client_info": {
+          "package_name": "com.drexapp.staycation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991255241940-5aen75ma6n4r6pid4te0qce134hhbkvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCUe_Qu2MIuAxFigktxRMJt8akCrF6eeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991255241940-5aen75ma6n4r6pid4te0qce134hhbkvm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "991255241940-25q6t2b9eqcpdeoojfm0kun7eu84vvst.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.staycation"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991255241940:android:37a09ea3c6090dce990741",
+        "android_client_info": {
+          "package_name": "com.ringinapp.staycation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "991255241940-5aen75ma6n4r6pid4te0qce134hhbkvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCUe_Qu2MIuAxFigktxRMJt8akCrF6eeA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "991255241940-5aen75ma6n4r6pid4te0qce134hhbkvm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "991255241940-25q6t2b9eqcpdeoojfm0kun7eu84vvst.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.staycation"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
